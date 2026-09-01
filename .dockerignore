@@ -1,0 +1,17 @@
+.git
+.github
+node_modules
+vendor
+.env
+.env.*
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+.clinerules
+.editorconfig
+.idea
+.vscode
+.phpunit.result.cache
+composer.phar
+composer-setup.php
